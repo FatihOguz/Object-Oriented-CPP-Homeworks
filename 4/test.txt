@@ -1,0 +1,61 @@
+-timetable
+-arrangeC
+-enter 1 Z23 0
+-enter 2 Z23 0
+-enter 3 Z23 0
+-enter 4 Z23 0
+-enter 1 Z23 0
+-enter 25 Z23 0
+-enter 6 Z23 0
+-enter 7 Z23 0
+-quit 7
+-enter 7 Z23 0
+-quit 7
+-enter 7 Z23 0
+-quit 7
+-enter 7 Z23 0
+-quit 7
+-enter 7 Z23 0
+-quit 7
+-enter 7 Z23 0
+-enter 8 Z23 0
+-enter 9 Z23 0
+-quit 1
+-quit 2
+-quit 3
+-quit 4
+-enter 80 Z23 44
+-enter 1  A23 44
+-enter 10 Z23 44
+-quit 10
+-enter 10 Z23 44
+-quit 10
+-enter 10 Z23 44
+-quit 10
+-enter 10 Z23 44
+-quit 10
+-enter 10 Z23 44
+-enter 11 Z23 44
+-enter 12 Z23 44
+-enter 1  Z23 44
+-enter 13 Z23 44
+-enter 14 Z23 44
+-enter 15 Z23 44
+-enter 16 Z23 44
+-enter 17 Z23 44
+-enter 18 Z23 44
+-quit 10
+-quit 12
+-quit 13
+-quit 14
+-enter 19 207 24
+-enter 20 207 24
+-enter 1 207 24
+-enter 21 207 24
+-enter 22 Z11 45
+-enter 24 Z11 101
+-enter 23 Z11 45
+-attendance 1
+-attendance 2
+-attendance 15
+exit

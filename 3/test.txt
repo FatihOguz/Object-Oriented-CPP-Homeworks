@@ -1,0 +1,16 @@
+-propose 2 Deeplearning 521 3 3 AI
+-propose 3 Network 999 6 4 NET
+-assign 20 4
+-assign 4 20
+-timetable 4
+-timetable 30
+-timetable 4
+-assign
+-arrangeC 4 3
+-arrangeC 10 4
+-arrangeC 3 4,1
+-arrangeC 4 3
+-timetable
+-assign
+-arrangeC
+exit
